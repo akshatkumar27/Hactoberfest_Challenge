@@ -8,6 +8,8 @@ Auxiliary Space: O(1)
 Boundary Cases: Bubble sort takes minimum time (Order of n) when elements are already sorted.
  */
 
+//here we have sorted an array using bubble sort algorithm both in recursive and iterative way.
+
 public class bubbleSort {
 
     //recursive bubble sort
@@ -40,7 +42,7 @@ public class bubbleSort {
          }
          System.out.println();
 
-        //bubble sort
+        // Iterative bubble sort
         for(int i  = 0; i< n-1;i++){
             for(int j = 0;j<n-i-1;j++){
                 if(arr[j]>arr[j+1]){
@@ -60,3 +62,6 @@ public class bubbleSort {
         }
     }
 }
+
+
+//this code is contributed by sneha-2510
