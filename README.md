@@ -14,33 +14,6 @@ As a bonus, a randomly selected contributor will receive a TimBuk2 Parkside Back
 # Repos
 You're encouraged to submit PRs for any Issues with the "hacktoberfest" label! These repositories power **PayPal's JavaScript SDK** used by millions of merchants and users.
 
-Here's a list of some of repos with "hacktoberfest" labeled Issues:
-
-## paypal-examples
-- https://github.com/paypal-examples/js-sdk-standard-integration ([Issues](https://github.com/paypal-examples/js-sdk-standard-integration/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-
-## paypal
-- https://github.com/paypal/paypal-checkout-components ([Issues](https://github.com/paypal/paypal-checkout-components/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-- https://github.com/paypal/paypal-js ([Issues](https://github.com/paypal/paypal-js/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-- https://github.com/paypal/react-paypal-js ([Issues](https://github.com/paypal/react-paypal-js/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-
-## kraken-js
-- https://github.com/krakenjs/zoid ([Issues](https://github.com/krakenjs/zoid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-- https://github.com/krakenjs/belter ([Issues](https://github.com/krakenjs/belter/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-- https://github.com/krakenjs/jsx-pragmatic ([Issues](https://github.com/krakenjs/jsx-pragmatic/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-- https://github.com/krakenjs/zalgo-promise ([Issues](https://github.com/krakenjs/zalgo-promise/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-- https://github.com/krakenjs/beaver-logger ([Issues](https://github.com/krakenjs/beaver-logger/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-- https://github.com/krakenjs/post-robot ([Issues](https://github.com/krakenjs/post-robot/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-- https://github.com/krakenjs/grumbler-scripts ([Issues](https://github.com/krakenjs/grumbler-scripts/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-- https://github.com/krakenjs/cross-domain-utils ([Issues](https://github.com/krakenjs/cross-domain-utils/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest))
-
-## braintree
-- https://github.com/braintree/braintree_ios ([Issues](https://github.com/braintree/braintree_ios/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktober))
-- https://github.com/braintree/braintree-ios-drop-in ([Issues](https://github.com/braintree/braintree-ios-drop-in/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktober))
-
-# Rules
-To qualify for PayPal swag and be part of a random drawing for the Timbuk2 Backpack (above):
-
 * You must open one pull request (PR) between October 1-31, 2021.
 * The PR must be associated with an Issue with a "hacktoberfest" label.
 
