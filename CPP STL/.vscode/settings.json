@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": false,
+    "files.associations": {
+        "*.tcc": "cpp"
+    }
+}
