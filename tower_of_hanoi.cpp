@@ -9,7 +9,7 @@ void tower_of_hanoi(int n, char A, char B, char C)
     if (n > 0)
     {
         tower_of_hanoi(n - 1, A, C, B);
-        cout << "Move topmost dic from " << A << " to " << C << endl;
+        cout << "Move topmost disc from " << A << " to " << C << endl;
         tower_of_hanoi(n - 1, B, A, C);
     }
 }
